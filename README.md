@@ -37,3 +37,14 @@ The goal is to understand how traffic congestion impacts economic performance an
 ---
 
 ## 📁 Project Structure
+
+
+---
+
+## 🚀 Outcome
+A clean and unified dataset ready for further analysis and visualization, supporting data-driven decision-making.
+
+---
+
+## 👩‍💻 Author
+Mayra Alejandra Castro Herrera
