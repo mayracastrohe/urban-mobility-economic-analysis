@@ -50,6 +50,22 @@ El objetivo es comprender cómo la congestión vehicular impacta el desempeño e
 
 ---
 
+# 🔄 Guía de Reproducción en Google Colab
+Haz clic en el siguiente botón:
+
+<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/github/mayracastrohe/urban-mobility-economic-analysis/blob/main/urban_mobility_economy_analysis.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+o,
+
+1. Descargar o clonar este repositorio.
+2. Abrir el archivo .ipynb en Google Colab:
+3. Ingresar a: https://colab.research.google.com/
+4. Seleccionar Subir Notebook y cargar el archivo del proyecto.
+
+---
+
 # 🚀 Resultado
 
 Se obtuvo un dataset limpio, integrado y preparado para futuros análisis y visualizaciones, facilitando la toma de decisiones basada en datos.
