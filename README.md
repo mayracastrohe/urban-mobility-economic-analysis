@@ -1,19 +1,22 @@
-# Urban Mobility vs Economic Productivity Analysis
+# 📊 Análisis de Movilidad Urbana vs Productividad Económica
 
-## 📌 Project Overview
-This project analyzes the relationship between urban mobility and economic productivity across major Latin American cities using real-world datasets from TomTom Traffic Index and OECD.
+## 📌 Descripción del Proyecto
 
-The goal is to understand how traffic congestion impacts economic performance and identify patterns that can support infrastructure investment decisions.
+Este proyecto analiza la relación entre la movilidad urbana y la productividad económica en principales ciudades de América Latina, utilizando datasets reales de **TomTom Traffic Index** y **OECD**.
+
+El objetivo es comprender cómo la congestión vehicular impacta el desempeño económico e identificar patrones que puedan apoyar la toma de decisiones relacionadas con inversión en infraestructura y movilidad urbana.
 
 ---
 
-## 📊 Data Sources
+# 📊 Fuentes de Datos
+
 - TomTom Traffic Index
 - OECD Cities Dataset
 
 ---
 
-## 🛠 Tools & Technologies
+# 🛠️ Herramientas y Tecnologías
+
 - Python (Pandas, NumPy)
 - SQL
 - Excel
@@ -21,30 +24,38 @@ The goal is to understand how traffic congestion impacts economic performance an
 
 ---
 
-## 🔍 Key Tasks
-- Data cleaning and preprocessing
-- Dataset integration and standardization
-- Exploratory Data Analysis (EDA)
-- Identifying relationships between mobility and economic indicators
+# 🔍 Tareas Realizadas
+
+- Limpieza y preprocesamiento de datos
+- Integración y estandarización de datasets
+- Análisis Exploratorio de Datos (EDA)
+- Identificación de relaciones entre movilidad e indicadores económicos
 
 ---
 
-## 📈 Key Insights
-- Cities with higher congestion levels tend to show patterns affecting productivity indicators
-- Data inconsistencies required normalization across sources
-- Mobility metrics can be used as proxies for economic efficiency
+# 📈 Principales Insights
+
+- Las ciudades con mayores niveles de congestión muestran patrones que afectan indicadores de productividad.
+- Fue necesario normalizar inconsistencias entre distintas fuentes de datos.
+- Las métricas de movilidad pueden utilizarse como indicadores indirectos de eficiencia económica.
 
 ---
 
-## 📁 Project Structure
+# 📁 Estructura del Proyecto
 
+- `data/` → Datasets utilizados
+- `notebooks/` → Análisis y exploración de datos
+- `images/` → Visualizaciones y gráficos
+- `README.md` → Documentación del proyecto
 
 ---
 
-## 🚀 Outcome
-A clean and unified dataset ready for further analysis and visualization, supporting data-driven decision-making.
+# 🚀 Resultado
+
+Se obtuvo un dataset limpio, integrado y preparado para futuros análisis y visualizaciones, facilitando la toma de decisiones basada en datos.
 
 ---
 
-## 👩‍💻 Author
-Mayra Alejandra Castro Herrera
+# 👩‍💻 Autor
+
+**Mayra Alejandra Castro Herrera**
